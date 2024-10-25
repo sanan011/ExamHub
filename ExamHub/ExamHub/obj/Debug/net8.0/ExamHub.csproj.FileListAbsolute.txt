@@ -1,0 +1,14 @@
+C:\Users\414\source\repos\ExamHub\ExamHub\bin\Debug\net8.0\ExamHub.exe
+C:\Users\414\source\repos\ExamHub\ExamHub\bin\Debug\net8.0\ExamHub.deps.json
+C:\Users\414\source\repos\ExamHub\ExamHub\bin\Debug\net8.0\ExamHub.runtimeconfig.json
+C:\Users\414\source\repos\ExamHub\ExamHub\bin\Debug\net8.0\ExamHub.dll
+C:\Users\414\source\repos\ExamHub\ExamHub\bin\Debug\net8.0\ExamHub.pdb
+C:\Users\414\source\repos\ExamHub\ExamHub\obj\Debug\net8.0\ExamHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\414\source\repos\ExamHub\ExamHub\obj\Debug\net8.0\ExamHub.AssemblyInfoInputs.cache
+C:\Users\414\source\repos\ExamHub\ExamHub\obj\Debug\net8.0\ExamHub.AssemblyInfo.cs
+C:\Users\414\source\repos\ExamHub\ExamHub\obj\Debug\net8.0\ExamHub.csproj.CoreCompileInputs.cache
+C:\Users\414\source\repos\ExamHub\ExamHub\obj\Debug\net8.0\ExamHub.dll
+C:\Users\414\source\repos\ExamHub\ExamHub\obj\Debug\net8.0\refint\ExamHub.dll
+C:\Users\414\source\repos\ExamHub\ExamHub\obj\Debug\net8.0\ExamHub.pdb
+C:\Users\414\source\repos\ExamHub\ExamHub\obj\Debug\net8.0\ExamHub.genruntimeconfig.cache
+C:\Users\414\source\repos\ExamHub\ExamHub\obj\Debug\net8.0\ref\ExamHub.dll

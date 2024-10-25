@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\414\\source\\repos\\ExamHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|c:\\users\\414\\source\\repos\\examhub\\examhub\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|solutionrelative:examhub\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|c:\\users\\414\\source\\repos\\examhub\\examhub\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|solutionrelative:examhub\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|c:\\users\\414\\source\\repos\\examhub\\examhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|solutionrelative:examhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|c:\\users\\414\\source\\repos\\examhub\\examhub\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|solutionrelative:examhub\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|c:\\users\\414\\source\\repos\\examhub\\examhub\\userbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|solutionrelative:examhub\\userbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|c:\\users\\414\\source\\repos\\examhub\\examhub\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|solutionrelative:examhub\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|c:\\users\\414\\source\\repos\\examhub\\examhub\\examresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC48A4EE-B965-4392-B6B3-D0823E15241F}|ExamHub\\ExamHub.csproj|solutionrelative:examhub\\examresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\Exam.cs",
+              "RelativeDocumentMoniker": "ExamHub\\Exam.cs",
+              "ToolTip": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\Exam.cs",
+              "RelativeToolTip": "ExamHub\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:43:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserBase.cs",
+              "DocumentMoniker": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\UserBase.cs",
+              "RelativeDocumentMoniker": "ExamHub\\UserBase.cs",
+              "ToolTip": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\UserBase.cs",
+              "RelativeToolTip": "ExamHub\\UserBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:43:28.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\Student.cs",
+              "RelativeDocumentMoniker": "ExamHub\\Student.cs",
+              "ToolTip": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\Student.cs",
+              "RelativeToolTip": "ExamHub\\Student.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:43:11.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\Admin.cs",
+              "RelativeDocumentMoniker": "ExamHub\\Admin.cs",
+              "ToolTip": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\Admin.cs",
+              "RelativeToolTip": "ExamHub\\Admin.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAA7wHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:42:56.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\Program.cs",
+              "RelativeDocumentMoniker": "ExamHub\\Program.cs",
+              "ToolTip": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\Program.cs",
+              "RelativeToolTip": "ExamHub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:41:12.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\Question.cs",
+              "RelativeDocumentMoniker": "ExamHub\\Question.cs",
+              "ToolTip": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\Question.cs",
+              "RelativeToolTip": "ExamHub\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:43:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamResult.cs",
+              "DocumentMoniker": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\ExamResult.cs",
+              "RelativeDocumentMoniker": "ExamHub\\ExamResult.cs",
+              "ToolTip": "C:\\Users\\414\\source\\repos\\ExamHub\\ExamHub\\ExamResult.cs",
+              "RelativeToolTip": "ExamHub\\ExamResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:44:19.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
